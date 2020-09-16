@@ -1,0 +1,10 @@
+<opml version="2.0">
+    <body>
+        <outline text="Subscriptions" title="Subscriptions">
+            <outline xmlUrl='https://www.patreon.com/rss/cumtown?auth=9R__D7-XYZNTy7PayxlbEAMQzL4Rxm1f' />
+            <outline xmlUrl='https://feeds.soundcloud.com/users/soundcloud:users:341089232/sounds.rss' />
+            <outline xmlUrl='https://shoutengine.com/CumTown.xml' />
+            <outline xmlUrl='https://feeds.simplecast.com/our5kUFn' />
+            <outline xmlUrl='http://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss' /></outline>
+    </body>
+</opml>
